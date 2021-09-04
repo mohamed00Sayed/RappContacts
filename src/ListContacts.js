@@ -4,8 +4,8 @@ import PropTypes  from 'prop-types';
 
 class ListContacts extends Component{
 	static propTypes = {
-		contacts: PropTypes .array.isRequired,
-		onDeleteContact: PropTypes .func.isRequired
+		contacts: PropTypes.array.isRequired,
+		onDeleteContact: PropTypes.func.isRequired
 	}
 	
 	state = {
@@ -16,6 +16,10 @@ class ListContacts extends Component{
 		this.setState(() => ({
 			query: query.trim()
 		}))
+	}
+	
+	clearQuery = () => {
+		this.updateQuery('')
 	}
 	
 	render(){
@@ -39,6 +43,14 @@ class ListContacts extends Component{
 						onChange={(evt) => {this.updateQuery(evt.target.value)}}
 					/>
 				</div>
+				
+				{showingContacts.length !== contacts.length && (
+					<div className='showing-contacts'>
+						<span>Now showing {showingContacts.length} of {contacts.length}</span>
+						<button onClick={this.clearQuery}>Show all</button>
+					</div>
+				)}
+				
 				<ol className='contact-list'>
 					{showingContacts.map((contact) => (
 						<li key={contact.id} className='contact-list-item'>
