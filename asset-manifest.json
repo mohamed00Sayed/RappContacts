@@ -1,14 +1,14 @@
 {
-  "main.css": "/game-login-show/static/css/main.59d1ebc2.chunk.css",
-  "main.js": "/game-login-show/static/js/main.fb0b1321.chunk.js",
-  "main.js.map": "/game-login-show/static/js/main.fb0b1321.chunk.js.map",
-  "static/js/1.3daf1773.chunk.js": "/game-login-show/static/js/1.3daf1773.chunk.js",
-  "static/js/1.3daf1773.chunk.js.map": "/game-login-show/static/js/1.3daf1773.chunk.js.map",
-  "runtime~main.js": "/game-login-show/static/js/runtime~main.71ec336c.js",
-  "runtime~main.js.map": "/game-login-show/static/js/runtime~main.71ec336c.js.map",
-  "static/media/index.css": "/game-login-show/static/media/cancel.4fb21612.svg",
-  "static/css/main.59d1ebc2.chunk.css.map": "/game-login-show/static/css/main.59d1ebc2.chunk.css.map",
-  "index.html": "/game-login-show/index.html",
-  "precache-manifest.ac06c63491118d77c6a32da967e20717.js": "/game-login-show/precache-manifest.ac06c63491118d77c6a32da967e20717.js",
-  "service-worker.js": "/game-login-show/service-worker.js"
+  "main.css": "/RappContacts/static/css/main.e89abac5.chunk.css",
+  "main.js": "/RappContacts/static/js/main.5dcd0241.chunk.js",
+  "main.js.map": "/RappContacts/static/js/main.5dcd0241.chunk.js.map",
+  "static/js/1.3daf1773.chunk.js": "/RappContacts/static/js/1.3daf1773.chunk.js",
+  "static/js/1.3daf1773.chunk.js.map": "/RappContacts/static/js/1.3daf1773.chunk.js.map",
+  "runtime~main.js": "/RappContacts/static/js/runtime~main.13017abd.js",
+  "runtime~main.js.map": "/RappContacts/static/js/runtime~main.13017abd.js.map",
+  "static/media/index.css": "/RappContacts/static/media/cancel.4fb21612.svg",
+  "static/css/main.e89abac5.chunk.css.map": "/RappContacts/static/css/main.e89abac5.chunk.css.map",
+  "index.html": "/RappContacts/index.html",
+  "precache-manifest.7d9c92112d1032681a416313c6403cb9.js": "/RappContacts/precache-manifest.7d9c92112d1032681a416313c6403cb9.js",
+  "service-worker.js": "/RappContacts/service-worker.js"
 }
