@@ -1,5 +1,4 @@
 {
-  "homepage": "https://mohamed00sayed.github.io/RappContacts",
   "name": "contacts",
   "version": "0.1.0",
   "private": true,
@@ -13,6 +12,7 @@
     "react-scripts": "2.1.1",
     "sort-by": "^1.2.0"
   },
+  "homepage": "https://mohamed00sayed.github.io/RappContacts",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
