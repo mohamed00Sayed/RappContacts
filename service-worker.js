@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/RappContacts/precache-manifest.ae6f572b33adbfec59ae85f3c1259452.js"
+  "/RappContacts/precache-manifest.cdae96254018692616b2e687f16e83e6.js"
 );
 
 workbox.clientsClaim();
